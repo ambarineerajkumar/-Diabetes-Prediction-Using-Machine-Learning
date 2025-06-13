@@ -1,4 +1,4 @@
-# -Diabetes-Prediction-Using-Machine-Learning
+# 🩺 Project Title:-Diabetes-Prediction-Using-Machine-Learning
 
 # 📘 Objective
 The goal of this project is to develop a predictive model to determine whether a patient is likely to be diabetic, based on health parameters. The entire ML pipeline is version-controlled using Git and documented in JupyterLab for reproducibility and collaboration.
